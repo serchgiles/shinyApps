@@ -6,6 +6,6 @@ This shiny app was created as a simple example on how to deploy shiny Apps in RS
 - `leaflet`: Interactive Maps
 - `plotly`: Interactive Plots
 
-The apps can be found [here](https://serchgiles.shinyapps.io/COVID19/).
+The dashboard can be found [here](https://serchgiles.shinyapps.io/COVID19/).
 
 Data used by this dashboard can be found on Johns Hopkins University [repository](https://github.com/CSSEGISandData/COVID-19).
